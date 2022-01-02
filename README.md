@@ -3,4 +3,4 @@ I am a GIS Analyst/ writer. You can find the shape files of the Indian states an
 
 Pronouns : She/her
 You can reach me at
-https://www.instagram.com/vishali_writes/
+vishali.writes@gmail.com
