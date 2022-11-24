@@ -1,6 +1,4 @@
 ### Hi there 👋 My name is Visalakshi.
-I am a GIS Analyst/ writer. You can find the shape files of the Indian and Canadian states and their relevant data here. 
-
-Pronouns : She/her
+I am a Spatial Analysis student. You can find shape files and data files in my repositories.
 You can reach me at
 vishali.writes@gmail.com
